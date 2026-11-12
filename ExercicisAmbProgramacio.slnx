@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Base10AHexadecimal/Base10AHexadecimal.csproj" />
+  <Project Path="ConvertirEmmagatzematge/ConvertirEmmagatzematge.csproj" Id="83a1d566-b9b3-4a9c-9792-fdb77e78a124" />
+  <Project Path="ConvertirEmmagatzematge2/ConvertirEmmagatzematge2.csproj" Id="0491fba4-ef46-4043-9cbc-9052b9ffdb0d" />
+  <Project Path="ExerciciBase10ABase2/ExerciciBase10ABase2.csproj" />
+  <Project Path="HexadecimalABinari/HexadecimalABinari.csproj" Id="a45aca54-11d0-42e3-b59f-a2b98bffd77f" />
+  <Project Path="Mag/Mag.csproj" Id="9f99801e-25d0-4497-b9e9-9aacbf0aec93" />
+</Solution>
